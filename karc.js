@@ -37,7 +37,7 @@ const row4KeyUp = "310px";
 const KeyUp = 1;
 const KeyDown = 0;
 
-
+//fuck
 //document.getElementByClassName('clss_keyDigits').addEventListener("click", fnPrintValue);
 //debugger;
 document.addEventListener("keyup", ynm_keyUpHandler);
